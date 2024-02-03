@@ -1,4 +1,4 @@
-# **Firebase Login App**
+# **News App**
 
 ### Description:
 This is a simple News app that shows users news online to read.
@@ -6,6 +6,6 @@ This is a simple News app that shows users news online to read.
 ### Features:
 Used MVVM architecture.
 
-Used Jetpack compontents like Navigation, Livedata, ViewModal.
+I used Jetpack components like Navigation, Livedata, and ViewModal.
 
 Retrofit for network calls and recycler view to load this fetched data.
